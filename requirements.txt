@@ -109,7 +109,7 @@ matplotlib
 seaborn
 
 # Interactive plotting library, often used with Shiny apps (~20-25 MB)
-#plotly
+plotly
 
 # ======================================================
 # GUI BACKEND FOR MATPLOTLIB ANIMATIONS (macOS/Linux only)
