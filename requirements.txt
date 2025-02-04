@@ -113,6 +113,7 @@ plotly
 
 # ======================================================
 # GUI BACKEND FOR MATPLOTLIB ANIMATIONS (macOS/Linux only)
+
 # ======================================================
 
 # Qt-based GUI framework for interactive plotting and animations (~50-60 MB)
