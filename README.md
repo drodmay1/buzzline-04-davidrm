@@ -17,9 +17,10 @@ python -m producers.project_producer_case
 python -m consumers.project_consumer_davidrm
 
 # Git Workflow
-git add README.md
-git commit -m "Updated README.md with details about the custom consumer"
+git add
+git commit -m
 git push origin main
+
 
 
 
