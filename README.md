@@ -1,4 +1,4 @@
-## New Consumer: Real-Time Total Message Aggregation
+# New Consumer: Real-Time Total Message Aggregation
 The consumer processes real-time JSON messages streamed by the producer and focuses on aggregating the total number of messages for each category. This provides a dynamic insight into which categories receive the most attention over time.
 Aggregating total messages reveals the most active or trending categories over time and also it helps seeing the distribution and volume of activity across topics in real-time.
 
